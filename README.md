@@ -1,3 +1,5 @@
+# DEPRECATED IN FAVOR OF https://github.com/Barbapapazes/plausible-tracker
+
 # Plausible Analytics Tracker
 
 [![NPM](https://flat.badgen.net/npm/v/plausible-tracker)](https://www.npmjs.com/package/plausible-tracker)  [![Bundle](https://flat.badgen.net/bundlephobia/minzip/plausible-tracker)](https://bundlephobia.com/result?p=plausible-tracker@latest)
